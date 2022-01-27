@@ -12,3 +12,5 @@
 
 
 7. As per issue #10: All single family detached homes in starting area shall be marked as heritage properties.
+
+8. All abandoned properties are to be torn down, regardless of district or type of district.
