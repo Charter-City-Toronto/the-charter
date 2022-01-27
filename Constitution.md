@@ -7,3 +7,5 @@
 4. Angular planes are a visual affront to the city that's also completely impractical in its loss of units for their height and subsequently are more carbon-intensive. Such an inefficient design is outlawed:  https://twitter.com/alexbozikovic/status/1389951132668239872
 
 5. The Governor General & individual's on stream's call will have free reign until stream chat opens an issue & proposes a new law, development, change to planning, etc  to vote on
+
+6. Fresh Start: Commision the building of a Fossil Fuel Power Plant and a large industrial district on toronto island. Also permit the zoning of low density residential 
