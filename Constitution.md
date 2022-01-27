@@ -5,3 +5,5 @@
 3. All votes are logged via the official twitch voting system in Aburi_Sushi "Twitch Builds Toronto" stream
 
 4. Angular planes are a visual affront to the city that's also completely impractical in its loss of units for their height and subsequently are more carbon-intensive. Such an inefficient design is outlawed:  https://twitter.com/alexbozikovic/status/1389951132668239872
+
+5. The Governor General & individual's on stream's call will have free reign until stream chat opens an issue & proposes a new law, development, change to planning, etc  to vote on
